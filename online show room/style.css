@@ -1,0 +1,11 @@
+.navbar-toggler {
+    border-style: solid;
+  }
+.caro{
+    align-items: center;
+}
+  
+.card{
+    display:flex;
+    align-items: end;
+}
